@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "History"
+    },
+    {
+      "id": 2,
+      "name": "Fantasy"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Dakota",
+      "lastName": "Rice",
+      "country": "Niger",
+      "city": "Oud-Turnhout",
+      "salary": 36738
+    },
+    {
+      "id": 2,
+      "firstName": "Minerva",
+      "lastName": "Hooper",
+      "country": "Curaçao",
+      "city": "Sinaai-Waas",
+      "salary": 23789
+    }
+  ]
+}
